@@ -1,0 +1,30 @@
+\**
+*
+* @author Matt Crichton
+* @version 9/8/2018
+*
+**\
+import java.util.Scanner;
+public class Museum
+{
+	public static void main(String[] args)
+	{
+		Scanner scan = new Scanner(System.in);
+		final int ADULT = 20;
+		final int SENIOR = 18;
+		final int STUDENT = 14;
+		final int CHILD = 12;
+		final int MEMBER = 0;
+		boolean admission = false;
+		String goodDay = "Enjoy your dat at the Radford museum of Fine Art!");
+		
+		System.out.print("Welcome to the Radford museum of Fine Art!");
+		System.out.print("Are you a member? (Y or N)");
+		String isMember = scan.nextLine();
+		if (isMember == "Y"){
+			admission = true;
+			System.out.print(goodDay);
+		}
+		
+	}
+}
