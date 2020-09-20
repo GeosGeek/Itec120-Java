@@ -1,0 +1,8 @@
+This is the first line.
+This is the second line.
+This line has some integers: 23, 48, 17, 94.
+Here is another line of text.
+45.3, 95.6, 34.23, 9865.2, 5437,23
+***************************
+ROA/SFO/ORD/IAD/ITO/STX/CLT/CHO
+This is the last line of the file.

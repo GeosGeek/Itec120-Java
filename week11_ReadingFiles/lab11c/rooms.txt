@@ -1,0 +1,5 @@
+4
+Start room,A cold dark place
+Davis 225,A place of higher learning
+Davis 231,The Wizard's Lair
+End Room,A bright warm place
