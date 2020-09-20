@@ -1,0 +1,8 @@
+Matt Crichton
+10/1
+
+moreUpperThanLower method
+- does not work when number of lower case and upper case is equal
+
+biggestInt method
+- does not work with negative numbers
